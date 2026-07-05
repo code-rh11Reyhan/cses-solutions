@@ -7,5 +7,14 @@
     "notes": "",
     "date": "2026-07-05",
     "filepath": "solutions\\introductory-problems\\1071-number-spiral.cpp"
+  },
+  {
+    "number": 1068,
+    "name": "Weird Algorithm",
+    "category": "Introductory Problems",
+    "difficulty": "Easy",
+    "notes": "",
+    "date": "2026-07-05",
+    "filepath": "solutions\\introductory-problems\\1068-weird-algorithm.cpp"
   }
 ]
