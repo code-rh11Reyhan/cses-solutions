@@ -34,5 +34,14 @@
     "notes": "",
     "date": "2026-07-05",
     "filepath": "solutions\\introductory-problems\\1069-repetitions.cpp"
+  },
+  {
+    "number": 1621,
+    "name": "Distinct Number",
+    "category": "Sorting and Searching",
+    "difficulty": "Easy",
+    "notes": "",
+    "date": "2026-07-05",
+    "filepath": "solutions\\sorting-and-searching\\1621-distinct-number.cpp"
   }
 ]
