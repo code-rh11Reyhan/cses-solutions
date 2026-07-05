@@ -70,5 +70,14 @@
     "notes": "",
     "date": "2026-07-05",
     "filepath": "solutions\\sorting-and-searching\\1091-concert-tickets.cpp"
+  },
+  {
+    "number": 1192,
+    "name": "Counting Rooms",
+    "category": "Graph Algorithms",
+    "difficulty": "Hard",
+    "notes": "",
+    "date": "2026-07-05",
+    "filepath": "solutions\\graph-algorithms\\1192-counting-rooms.cpp"
   }
 ]
