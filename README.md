@@ -1,17 +1,17 @@
 # CSES Problem Set — Solutions
 
-![Solved](https://img.shields.io/badge/solved-7%2F300-blue) ![Last Updated](https://img.shields.io/badge/updated-2026-07-05-informational)
+![Solved](https://img.shields.io/badge/solved-8%2F300-blue) ![Last Updated](https://img.shields.io/badge/updated-2026-07-05-informational)
 
 Automated solution tracker for the [CSES Problem Set](https://cses.fi/problemset/). Every entry below is filed in automatically the moment a problem is solved — see `add_solution.py`.
 
 ## Progress
 
-**7 / 300** problems solved.
+**8 / 300** problems solved.
 
 | Category | Solved |
 |---|---|
 | Introductory Problems | 4 |
-| Sorting and Searching | 3 |
+| Sorting and Searching | 4 |
 
 ## Solutions
 
@@ -30,6 +30,7 @@ Automated solution tracker for the [CSES Problem Set](https://cses.fi/problemset
 |---|---|---|---|---|
 | [1084](https://cses.fi/problemset/task/1084) | Apartments | 🟡 Medium | [1084-apartments.cpp](solutions\sorting-and-searching\1084-apartments.cpp) | 2026-07-05 |
 | [1090](https://cses.fi/problemset/task/1090) | Ferris Wheel | 🟡 Medium | [1090-ferris-wheel.cpp](solutions\sorting-and-searching\1090-ferris-wheel.cpp) | 2026-07-05 |
+| [1091](https://cses.fi/problemset/task/1091) | Concert Tickets | 🟡 Medium | [1091-concert-tickets.cpp](solutions\sorting-and-searching\1091-concert-tickets.cpp) | 2026-07-05 |
 | [1621](https://cses.fi/problemset/task/1621) | Distinct Number | 🟢 Easy | [1621-distinct-number.cpp](solutions\sorting-and-searching\1621-distinct-number.cpp) | 2026-07-05 |
 
 ---
