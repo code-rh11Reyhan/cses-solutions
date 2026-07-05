@@ -61,13 +61,13 @@ def slugify(text: str) -> str:
 
 def load_db() -> list:
     if DB_PATH.exists():
-        with open(DB_PATH, "r") as f:
+        with open(DB_PATH, "r", encoding="utf-8") as f:
             return json.load(f)
     return []
 
 
 def save_db(db: list) -> None:
-    with open(DB_PATH, "w") as f:
+    with open(DB_PATH, "w", encoding="utf-8") as f:
         json.dump(db, f, indent=2)
 
 
@@ -213,7 +213,7 @@ def main():
     save_db(db)
 
     readme = build_readme(db)
-    README_PATH.write_text(readme)
+    README_PATH.write_text(readme, encoding = "utf-8")
 
     print(f"\n✔ Filed: {entry['filepath']}")
     print(f"✔ README.md regenerated ({len(db)} problems tracked)")

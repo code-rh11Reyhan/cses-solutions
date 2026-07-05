@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "number": 1071,
+    "name": "Number Spiral",
+    "category": "Introductory Problems",
+    "difficulty": "Easy",
+    "notes": "",
+    "date": "2026-07-05",
+    "filepath": "solutions\\introductory-problems\\1071-number-spiral.cpp"
+  }
+]
