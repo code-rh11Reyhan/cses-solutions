@@ -16,5 +16,14 @@
     "notes": "",
     "date": "2026-07-05",
     "filepath": "solutions\\introductory-problems\\1068-weird-algorithm.cpp"
+  },
+  {
+    "number": 1083,
+    "name": "Missing Number",
+    "category": "Introductory Problems",
+    "difficulty": "Easy",
+    "notes": "",
+    "date": "2026-07-05",
+    "filepath": "solutions\\introductory-problems\\1083-missing-number.cpp"
   }
 ]
