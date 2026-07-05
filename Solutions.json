@@ -43,5 +43,14 @@
     "notes": "",
     "date": "2026-07-05",
     "filepath": "solutions\\sorting-and-searching\\1621-distinct-number.cpp"
+  },
+  {
+    "number": 1084,
+    "name": "Apartments",
+    "category": "Sorting and Searching",
+    "difficulty": "Medium",
+    "notes": "",
+    "date": "2026-07-05",
+    "filepath": "solutions\\sorting-and-searching\\1084-apartments.cpp"
   }
 ]

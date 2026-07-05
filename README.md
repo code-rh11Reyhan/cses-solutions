@@ -1,17 +1,17 @@
 # CSES Problem Set — Solutions
 
-![Solved](https://img.shields.io/badge/solved-5%2F300-blue) ![Last Updated](https://img.shields.io/badge/updated-2026-07-05-informational)
+![Solved](https://img.shields.io/badge/solved-6%2F300-blue) ![Last Updated](https://img.shields.io/badge/updated-2026-07-05-informational)
 
 Automated solution tracker for the [CSES Problem Set](https://cses.fi/problemset/). Every entry below is filed in automatically the moment a problem is solved — see `add_solution.py`.
 
 ## Progress
 
-**5 / 300** problems solved.
+**6 / 300** problems solved.
 
 | Category | Solved |
 |---|---|
 | Introductory Problems | 4 |
-| Sorting and Searching | 1 |
+| Sorting and Searching | 2 |
 
 ## Solutions
 
@@ -28,6 +28,7 @@ Automated solution tracker for the [CSES Problem Set](https://cses.fi/problemset
 
 | # | Problem | Difficulty | Solution | Solved On |
 |---|---|---|---|---|
+| [1084](https://cses.fi/problemset/task/1084) | Apartments | 🟡 Medium | [1084-apartments.cpp](solutions\sorting-and-searching\1084-apartments.cpp) | 2026-07-05 |
 | [1621](https://cses.fi/problemset/task/1621) | Distinct Number | 🟢 Easy | [1621-distinct-number.cpp](solutions\sorting-and-searching\1621-distinct-number.cpp) | 2026-07-05 |
 
 ---
