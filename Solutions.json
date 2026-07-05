@@ -79,5 +79,14 @@
     "notes": "",
     "date": "2026-07-05",
     "filepath": "solutions\\graph-algorithms\\1192-counting-rooms.cpp"
+  },
+  {
+    "number": 1193,
+    "name": "Labyrinth",
+    "category": "Graph Algorithms",
+    "difficulty": "Hard",
+    "notes": "",
+    "date": "2026-07-05",
+    "filepath": "solutions\\graph-algorithms\\1193-labyrinth.cpp"
   }
 ]

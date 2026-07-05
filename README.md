@@ -1,18 +1,18 @@
 # CSES Problem Set — Solutions
 
-![Solved](https://img.shields.io/badge/solved-9%2F300-blue) ![Last Updated](https://img.shields.io/badge/updated-2026-07-05-informational)
+![Solved](https://img.shields.io/badge/solved-10%2F300-blue) ![Last Updated](https://img.shields.io/badge/updated-2026-07-05-informational)
 
 Automated solution tracker for the [CSES Problem Set](https://cses.fi/problemset/). Every entry below is filed in automatically the moment a problem is solved — see `add_solution.py`.
 
 ## Progress
 
-**9 / 300** problems solved.
+**10 / 300** problems solved.
 
 | Category | Solved |
 |---|---|
 | Introductory Problems | 4 |
 | Sorting and Searching | 4 |
-| Graph Algorithms | 1 |
+| Graph Algorithms | 2 |
 
 ## Solutions
 
@@ -39,6 +39,7 @@ Automated solution tracker for the [CSES Problem Set](https://cses.fi/problemset
 | # | Problem | Difficulty | Solution | Solved On |
 |---|---|---|---|---|
 | [1192](https://cses.fi/problemset/task/1192) | Counting Rooms | 🔴 Hard | [1192-counting-rooms.cpp](solutions\graph-algorithms\1192-counting-rooms.cpp) | 2026-07-05 |
+| [1193](https://cses.fi/problemset/task/1193) | Labyrinth | 🔴 Hard | [1193-labyrinth.cpp](solutions\graph-algorithms\1193-labyrinth.cpp) | 2026-07-05 |
 
 ---
 *Generated automatically by `add_solution.py`. Do not edit by hand — it will be overwritten.*
