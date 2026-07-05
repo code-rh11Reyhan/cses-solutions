@@ -52,5 +52,14 @@
     "notes": "",
     "date": "2026-07-05",
     "filepath": "solutions\\sorting-and-searching\\1084-apartments.cpp"
+  },
+  {
+    "number": 1090,
+    "name": "Ferris Wheel",
+    "category": "Sorting and Searching",
+    "difficulty": "Medium",
+    "notes": "",
+    "date": "2026-07-05",
+    "filepath": "solutions\\sorting-and-searching\\1090-ferris-wheel.cpp"
   }
 ]
