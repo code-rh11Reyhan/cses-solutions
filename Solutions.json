@@ -88,5 +88,14 @@
     "notes": "",
     "date": "2026-07-05",
     "filepath": "solutions\\graph-algorithms\\1193-labyrinth.cpp"
+  },
+  {
+    "number": 1070,
+    "name": "Permutations",
+    "category": "Introductory Problems",
+    "difficulty": "Easy",
+    "notes": "",
+    "date": "2026-07-07",
+    "filepath": "solutions\\introductory-problems\\1070-permutations.cpp"
   }
 ]
